@@ -1,0 +1,7 @@
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\06_Arrays\bin\Debug\06_Arrays.exe.config
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\06_Arrays\bin\Debug\06_Arrays.exe
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\06_Arrays\bin\Debug\06_Arrays.pdb
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\06_Arrays\obj\Debug\06_Arrays.csproj.AssemblyReference.cache
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\06_Arrays\obj\Debug\06_Arrays.exe
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\06_Arrays\obj\Debug\06_Arrays.pdb

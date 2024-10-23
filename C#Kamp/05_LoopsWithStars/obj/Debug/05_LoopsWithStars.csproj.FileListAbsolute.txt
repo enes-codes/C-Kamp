@@ -1,0 +1,7 @@
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe.config
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.pdb
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.AssemblyReference.cache
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.pdb

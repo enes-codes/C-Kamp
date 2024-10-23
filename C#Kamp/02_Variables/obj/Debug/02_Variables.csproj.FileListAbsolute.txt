@@ -1,0 +1,7 @@
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\02_Variables\obj\Debug\02_Variables.pdb

@@ -1,0 +1,7 @@
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\01_MainSubject\bin\Debug\01_MainSubject.exe.config
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\01_MainSubject\bin\Debug\01_MainSubject.exe
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\01_MainSubject\bin\Debug\01_MainSubject.pdb
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\01_MainSubject\obj\Debug\01_MainSubject.csproj.AssemblyReference.cache
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\01_MainSubject\obj\Debug\01_MainSubject.csproj.CoreCompileInputs.cache
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\01_MainSubject\obj\Debug\01_MainSubject.exe
+C:\Users\ENES\Desktop\Masaüstü\Visual Proje\C#Kamp\01_MainSubject\obj\Debug\01_MainSubject.pdb
